@@ -1,0 +1,297 @@
+2020-03-02 10:43:48,342 INFO  [main] root: start server
+2020-03-10 11:57:21,697 INFO  [main] root: start server
+2020-03-10 11:57:45,692 DEBUG [main] root: server accept client
+2020-03-10 11:57:45,699 DEBUG [main] root: socket create
+2020-03-10 11:57:45,699 DEBUG [main] root: reader create
+2020-03-10 11:57:45,700 DEBUG [main] root: writer create
+2020-03-10 11:57:45,700 DEBUG [main] root: threade start
+2020-03-10 11:58:42,931 DEBUG [Thread-0] root: client send 12345 asdfghjkl
+2020-03-10 12:02:50,438 INFO  [main] root: start server
+2020-03-10 12:03:01,168 DEBUG [main] root: server accept client
+2020-03-10 12:03:01,176 DEBUG [main] root: socket create
+2020-03-10 12:03:01,177 DEBUG [main] root: reader create
+2020-03-10 12:03:01,177 DEBUG [main] root: writer create
+2020-03-10 12:03:01,178 DEBUG [main] root: threade start
+2020-03-10 12:03:06,002 DEBUG [Thread-0] root: client send 1234 sdfghjk
+2020-03-16 11:37:02,511 INFO  [main] root: start server
+2020-03-16 11:37:16,178 DEBUG [main] root: server accept client
+2020-03-16 11:37:16,179 DEBUG [main] root: socket create
+2020-03-16 11:37:16,180 DEBUG [main] root: reader create
+2020-03-16 11:37:16,180 DEBUG [main] root: writer create
+2020-03-16 11:37:16,181 DEBUG [main] root: threade start
+2020-03-16 11:37:34,808 DEBUG [Thread-0] root: client send rtyui 45678
+2020-03-16 11:38:40,071 INFO  [main] root: start server
+2020-03-16 11:38:53,371 INFO  [main] root: start server
+2020-03-16 11:39:10,986 DEBUG [main] root: server accept client
+2020-03-16 11:39:10,987 DEBUG [main] root: socket create
+2020-03-16 11:39:10,987 DEBUG [main] root: reader create
+2020-03-16 11:39:10,988 DEBUG [main] root: writer create
+2020-03-16 11:39:10,988 DEBUG [main] root: threade start
+2020-03-16 11:39:17,800 DEBUG [Thread-0] root: client send uhii jdfsfgb
+2020-03-16 11:39:17,800 DEBUG [Thread-0] root: client send uhii jdfsfgb
+2020-03-16 12:12:30,638 DEBUG [Thread-0] root: client send gjkl yffdh
+2020-03-16 12:12:30,638 DEBUG [Thread-0] root: client send gjkl yffdh
+2020-04-01 22:14:32,893 INFO  [main] root: start server
+2020-04-01 22:16:16,739 INFO  [main] root: start server
+2020-04-01 22:17:44,982 DEBUG [main] root: server accept client
+2020-04-01 22:17:44,984 DEBUG [main] root: socket create
+2020-04-01 22:17:44,985 DEBUG [main] root: reader create
+2020-04-01 22:17:44,985 DEBUG [main] root: writer create
+2020-04-01 22:17:44,985 DEBUG [main] root: threade start
+2020-04-01 22:17:51,414 DEBUG [Thread-0] root: client send dsgfjdgh dfghjkl
+2020-04-02 11:15:03,601 INFO  [main] root: start server
+2020-04-02 11:15:33,432 DEBUG [main] root: server accept client
+2020-04-02 11:15:33,434 DEBUG [main] root: socket create
+2020-04-02 11:15:33,434 DEBUG [main] root: reader create
+2020-04-02 11:15:33,435 DEBUG [main] root: writer create
+2020-04-02 11:15:33,435 DEBUG [main] root: threade start
+2020-04-02 11:15:42,270 DEBUG [Thread-0] root: client send 123 qwerty
+2020-04-02 11:16:08,352 DEBUG [Thread-0] root: client diconnectSocket[addr=/127.0.0.1,port=50427,localport=8080]
+2020-04-02 11:17:27,596 INFO  [main] root: start server
+2020-04-02 11:17:38,443 DEBUG [main] root: server accept client
+2020-04-02 11:17:38,445 DEBUG [main] root: socket create
+2020-04-02 11:17:38,445 DEBUG [main] root: reader create
+2020-04-02 11:17:38,445 DEBUG [main] root: writer create
+2020-04-02 11:17:38,446 DEBUG [main] root: threade start
+2020-04-02 11:17:53,672 DEBUG [Thread-0] root: client send 123qwerty
+2020-04-02 11:18:29,831 INFO  [main] root: start server
+2020-04-02 11:19:19,542 INFO  [main] root: start server
+2020-04-02 11:19:27,513 DEBUG [main] root: server accept client
+2020-04-02 11:19:27,514 DEBUG [main] root: socket create
+2020-04-02 11:19:27,514 DEBUG [main] root: reader create
+2020-04-02 11:19:27,515 DEBUG [main] root: writer create
+2020-04-02 11:19:27,515 DEBUG [main] root: threade start
+2020-04-02 11:19:32,388 DEBUG [Thread-0] root: client send 123 qwerty
+2020-04-02 11:20:15,089 INFO  [main] root: start server
+2020-04-02 11:20:38,150 DEBUG [main] root: server accept client
+2020-04-02 11:20:38,152 DEBUG [main] root: socket create
+2020-04-02 11:20:38,152 DEBUG [main] root: reader create
+2020-04-02 11:20:38,153 DEBUG [main] root: writer create
+2020-04-02 11:20:38,153 DEBUG [main] root: threade start
+2020-04-02 11:20:50,572 DEBUG [Thread-0] root: client send 456 rtyui
+2020-04-02 11:21:00,792 DEBUG [Thread-0] root: client send 125 uiop[
+2020-04-02 11:22:20,124 DEBUG [Thread-0] root: client diconnectSocket[addr=/127.0.0.1,port=50778,localport=8080]
+2020-04-02 11:22:25,602 INFO  [main] root: start server
+2020-04-02 11:22:57,900 INFO  [main] root: start server
+2020-04-02 11:23:43,869 DEBUG [main] root: server accept client
+2020-04-02 11:23:43,871 DEBUG [main] root: socket create
+2020-04-02 11:23:43,871 DEBUG [main] root: reader create
+2020-04-02 11:23:43,872 DEBUG [main] root: writer create
+2020-04-02 11:23:43,872 DEBUG [main] root: threade start
+2020-04-02 11:23:50,364 DEBUG [Thread-0] root: client send 123
+2020-04-02 11:30:32,454 INFO  [main] root: start server
+2020-04-02 11:30:41,661 DEBUG [main] root: server accept client
+2020-04-02 11:30:41,662 DEBUG [main] root: socket create
+2020-04-02 11:30:41,662 DEBUG [main] root: reader create
+2020-04-02 11:30:41,663 DEBUG [main] root: writer create
+2020-04-02 11:30:41,663 DEBUG [main] root: threade start
+2020-04-02 11:30:45,023 DEBUG [Thread-0] root: client send 123
+2020-04-02 11:39:17,773 INFO  [main] root: start server
+2020-04-02 11:39:33,287 DEBUG [main] root: server accept client
+2020-04-02 11:39:33,288 DEBUG [main] root: socket create
+2020-04-02 11:39:33,288 DEBUG [main] root: reader create
+2020-04-02 11:39:33,288 DEBUG [main] root: writer create
+2020-04-02 11:39:33,289 DEBUG [main] root: threade start
+2020-04-02 11:39:38,635 DEBUG [Thread-0] root: client send 123
+2020-04-02 11:41:17,218 INFO  [main] root: start server
+2020-04-02 11:41:25,212 DEBUG [main] root: server accept client
+2020-04-02 11:41:25,214 DEBUG [main] root: socket create
+2020-04-02 11:41:25,214 DEBUG [main] root: reader create
+2020-04-02 11:41:25,215 DEBUG [main] root: writer create
+2020-04-02 11:41:25,215 DEBUG [main] root: threade start
+2020-04-02 11:41:28,183 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:01:22,376 INFO  [main] root: start server
+2020-04-02 12:01:36,317 DEBUG [main] root: server accept client
+2020-04-02 12:01:36,318 DEBUG [main] root: socket create
+2020-04-02 12:01:36,319 DEBUG [main] root: reader create
+2020-04-02 12:01:36,319 DEBUG [main] root: writer create
+2020-04-02 12:01:36,319 DEBUG [main] root: threade start
+2020-04-02 12:01:42,199 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:03:04,471 INFO  [main] root: start server
+2020-04-02 12:03:16,897 DEBUG [main] root: server accept client
+2020-04-02 12:03:16,898 DEBUG [main] root: socket create
+2020-04-02 12:03:16,899 DEBUG [main] root: reader create
+2020-04-02 12:03:16,899 DEBUG [main] root: writer create
+2020-04-02 12:03:16,899 DEBUG [main] root: threade start
+2020-04-02 12:03:24,824 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:04:21,963 INFO  [main] root: start server
+2020-04-02 12:04:41,228 DEBUG [main] root: server accept client
+2020-04-02 12:04:41,230 DEBUG [main] root: socket create
+2020-04-02 12:04:41,230 DEBUG [main] root: reader create
+2020-04-02 12:04:41,230 DEBUG [main] root: writer create
+2020-04-02 12:04:41,230 DEBUG [main] root: threade start
+2020-04-02 12:04:44,207 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:05:01,109 INFO  [main] root: start server
+2020-04-02 12:05:06,999 DEBUG [main] root: server accept client
+2020-04-02 12:05:07,001 DEBUG [main] root: socket create
+2020-04-02 12:05:07,001 DEBUG [main] root: reader create
+2020-04-02 12:05:07,001 DEBUG [main] root: writer create
+2020-04-02 12:05:07,002 DEBUG [main] root: threade start
+2020-04-02 12:05:11,825 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:06:03,245 INFO  [main] root: start server
+2020-04-02 12:06:05,454 DEBUG [main] root: server accept client
+2020-04-02 12:06:05,456 DEBUG [main] root: socket create
+2020-04-02 12:06:05,456 DEBUG [main] root: reader create
+2020-04-02 12:06:05,456 DEBUG [main] root: writer create
+2020-04-02 12:06:05,456 DEBUG [main] root: threade start
+2020-04-02 12:06:07,833 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:07:39,845 INFO  [main] root: start server
+2020-04-02 12:07:49,088 DEBUG [main] root: server accept client
+2020-04-02 12:07:49,089 DEBUG [main] root: socket create
+2020-04-02 12:07:49,089 DEBUG [main] root: reader create
+2020-04-02 12:07:49,090 DEBUG [main] root: writer create
+2020-04-02 12:07:49,090 DEBUG [main] root: threade start
+2020-04-02 12:07:53,434 DEBUG [Thread-0] root: client send 125
+2020-04-02 12:09:28,085 INFO  [main] root: start server
+2020-04-02 12:09:30,401 DEBUG [main] root: server accept client
+2020-04-02 12:09:30,402 DEBUG [main] root: socket create
+2020-04-02 12:09:30,402 DEBUG [main] root: reader create
+2020-04-02 12:09:30,403 DEBUG [main] root: writer create
+2020-04-02 12:09:30,403 DEBUG [main] root: threade start
+2020-04-02 12:09:38,381 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:10:11,761 INFO  [main] root: start server
+2020-04-02 12:10:13,647 DEBUG [main] root: server accept client
+2020-04-02 12:10:13,649 DEBUG [main] root: socket create
+2020-04-02 12:10:13,650 DEBUG [main] root: reader create
+2020-04-02 12:10:13,651 DEBUG [main] root: writer create
+2020-04-02 12:10:13,651 DEBUG [main] root: threade start
+2020-04-02 12:10:17,755 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:10:31,332 INFO  [main] root: start server
+2020-04-02 12:10:34,886 DEBUG [main] root: server accept client
+2020-04-02 12:10:34,888 DEBUG [main] root: socket create
+2020-04-02 12:10:34,888 DEBUG [main] root: reader create
+2020-04-02 12:10:34,889 DEBUG [main] root: writer create
+2020-04-02 12:10:34,889 DEBUG [main] root: threade start
+2020-04-02 12:11:23,024 INFO  [main] root: start server
+2020-04-02 12:11:34,459 DEBUG [main] root: server accept client
+2020-04-02 12:11:34,461 DEBUG [main] root: socket create
+2020-04-02 12:11:34,461 DEBUG [main] root: reader create
+2020-04-02 12:11:34,462 DEBUG [main] root: writer create
+2020-04-02 12:11:34,463 DEBUG [main] root: threade start
+2020-04-02 12:12:19,123 INFO  [main] root: start server
+2020-04-02 12:12:23,660 DEBUG [main] root: server accept client
+2020-04-02 12:12:23,662 DEBUG [main] root: socket create
+2020-04-02 12:12:23,662 DEBUG [main] root: reader create
+2020-04-02 12:12:23,662 DEBUG [main] root: writer create
+2020-04-02 12:12:23,663 DEBUG [main] root: threade start
+2020-04-02 12:12:27,146 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:12:57,493 INFO  [main] root: start server
+2020-04-02 12:12:59,796 DEBUG [main] root: server accept client
+2020-04-02 12:12:59,798 DEBUG [main] root: socket create
+2020-04-02 12:12:59,798 DEBUG [main] root: reader create
+2020-04-02 12:12:59,799 DEBUG [main] root: writer create
+2020-04-02 12:12:59,799 DEBUG [main] root: threade start
+2020-04-02 12:13:02,062 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:13:27,520 INFO  [main] root: start server
+2020-04-02 12:13:41,528 DEBUG [main] root: server accept client
+2020-04-02 12:13:41,529 DEBUG [main] root: socket create
+2020-04-02 12:13:41,529 DEBUG [main] root: reader create
+2020-04-02 12:13:41,530 DEBUG [main] root: writer create
+2020-04-02 12:13:41,530 DEBUG [main] root: threade start
+2020-04-02 12:13:45,100 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:14:26,878 INFO  [main] root: start server
+2020-04-02 12:14:32,029 DEBUG [main] root: server accept client
+2020-04-02 12:14:32,030 DEBUG [main] root: socket create
+2020-04-02 12:14:32,030 DEBUG [main] root: reader create
+2020-04-02 12:14:32,030 DEBUG [main] root: writer create
+2020-04-02 12:14:32,030 DEBUG [main] root: threade start
+2020-04-02 12:14:35,318 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:14:59,921 INFO  [main] root: start server
+2020-04-02 12:15:01,008 DEBUG [main] root: server accept client
+2020-04-02 12:15:01,009 DEBUG [main] root: socket create
+2020-04-02 12:15:01,010 DEBUG [main] root: reader create
+2020-04-02 12:15:01,010 DEBUG [main] root: writer create
+2020-04-02 12:15:01,011 DEBUG [main] root: threade start
+2020-04-02 12:15:03,565 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:15:11,369 DEBUG [Thread-0] root: client send 125
+2020-04-02 12:15:23,073 DEBUG [Thread-0] root: client send 456 tyu
+2020-04-02 12:15:29,617 DEBUG [Thread-0] root: client send 456
+2020-04-02 12:16:00,620 INFO  [main] root: start server
+2020-04-02 12:16:08,938 DEBUG [main] root: server accept client
+2020-04-02 12:16:08,939 DEBUG [main] root: socket create
+2020-04-02 12:16:08,939 DEBUG [main] root: reader create
+2020-04-02 12:16:08,939 DEBUG [main] root: writer create
+2020-04-02 12:16:08,940 DEBUG [main] root: threade start
+2020-04-02 12:16:18,474 DEBUG [Thread-0] root: client send 333
+2020-04-02 12:16:38,000 DEBUG [main] root: server accept client
+2020-04-02 12:16:38,001 DEBUG [main] root: socket create
+2020-04-02 12:16:38,001 DEBUG [main] root: reader create
+2020-04-02 12:16:38,001 DEBUG [main] root: writer create
+2020-04-02 12:16:38,002 DEBUG [main] root: threade start
+2020-04-02 12:16:41,225 DEBUG [Thread-1] root: client send 123
+2020-04-02 12:16:44,190 DEBUG [Thread-1] root: client send 333
+2020-04-02 12:18:29,859 INFO  [main] root: start server
+2020-04-02 12:18:40,737 DEBUG [main] root: server accept client
+2020-04-02 12:18:40,739 DEBUG [main] root: socket create
+2020-04-02 12:18:40,739 DEBUG [main] root: reader create
+2020-04-02 12:18:40,740 DEBUG [main] root: writer create
+2020-04-02 12:18:40,740 DEBUG [main] root: threade start
+2020-04-02 12:18:54,468 DEBUG [Thread-0] root: client send 123
+2020-04-02 12:18:58,122 DEBUG [Thread-0] root: client send 222
+2020-04-02 12:19:19,515 INFO  [main] root: start server
+2020-04-02 14:56:26,704 INFO  [main] root: start server
+2020-04-02 14:56:36,711 DEBUG [main] root: server accept client
+2020-04-02 14:56:36,713 DEBUG [main] root: socket create
+2020-04-02 14:56:36,713 DEBUG [main] root: reader create
+2020-04-02 14:56:36,713 DEBUG [main] root: writer create
+2020-04-02 14:56:36,714 DEBUG [main] root: threade start
+2020-04-02 14:56:40,350 DEBUG [Thread-0] root: client send get  123
+2020-04-02 14:59:30,478 INFO  [main] root: start server
+2020-04-02 14:59:42,704 DEBUG [main] root: server accept client
+2020-04-02 14:59:42,707 DEBUG [main] root: socket create
+2020-04-02 14:59:42,707 DEBUG [main] root: reader create
+2020-04-02 14:59:42,708 DEBUG [main] root: writer create
+2020-04-02 14:59:42,708 DEBUG [main] root: threade start
+2020-04-02 14:59:53,017 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:04:07,491 INFO  [main] root: start server
+2020-04-02 15:04:13,832 DEBUG [main] root: server accept client
+2020-04-02 15:04:13,833 DEBUG [main] root: socket create
+2020-04-02 15:04:13,834 DEBUG [main] root: reader create
+2020-04-02 15:04:13,834 DEBUG [main] root: writer create
+2020-04-02 15:04:13,834 DEBUG [main] root: threade start
+2020-04-02 15:04:16,648 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:05:39,631 INFO  [main] root: start server
+2020-04-02 15:05:48,274 DEBUG [main] root: server accept client
+2020-04-02 15:05:48,276 DEBUG [main] root: socket create
+2020-04-02 15:05:48,276 DEBUG [main] root: reader create
+2020-04-02 15:05:48,277 DEBUG [main] root: writer create
+2020-04-02 15:05:48,277 DEBUG [main] root: threade start
+2020-04-02 15:05:51,252 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:07:58,237 INFO  [main] root: start server
+2020-04-02 15:08:08,720 DEBUG [main] root: server accept client
+2020-04-02 15:08:08,722 DEBUG [main] root: socket create
+2020-04-02 15:08:08,722 DEBUG [main] root: reader create
+2020-04-02 15:08:08,723 DEBUG [main] root: writer create
+2020-04-02 15:08:08,723 DEBUG [main] root: threade start
+2020-04-02 15:08:13,463 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:08:56,986 DEBUG [Thread-0] root: client send get  125
+2020-04-02 15:11:51,674 INFO  [main] root: start server
+2020-04-02 15:12:04,303 DEBUG [main] root: server accept client
+2020-04-02 15:12:04,305 DEBUG [main] root: socket create
+2020-04-02 15:12:04,305 DEBUG [main] root: reader create
+2020-04-02 15:12:04,305 DEBUG [main] root: writer create
+2020-04-02 15:12:04,305 DEBUG [main] root: threade start
+2020-04-02 15:12:09,687 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:12:15,057 DEBUG [Thread-0] root: client send get  125
+2020-04-02 15:12:55,273 INFO  [main] root: start server
+2020-04-02 15:13:03,755 DEBUG [main] root: server accept client
+2020-04-02 15:13:03,757 DEBUG [main] root: socket create
+2020-04-02 15:13:03,757 DEBUG [main] root: reader create
+2020-04-02 15:13:03,757 DEBUG [main] root: writer create
+2020-04-02 15:13:03,757 DEBUG [main] root: threade start
+2020-04-02 15:13:08,628 DEBUG [Thread-0] root: client send 5678 ghjk
+2020-04-02 15:13:13,421 DEBUG [Thread-0] root: client send vbnm tyui
+2020-04-02 15:13:18,361 DEBUG [Thread-0] root: client send 67 yuio
+2020-04-02 15:13:22,957 DEBUG [Thread-0] root: client send 1 tyui
+2020-04-02 15:13:29,275 DEBUG [Thread-0] root: client send get  1
+2020-04-02 15:13:31,977 DEBUG [Thread-0] root: client send get  123
+2020-04-02 15:13:37,811 DEBUG [Thread-0] root: client send get  125
+2020-04-02 15:13:44,059 DEBUG [Thread-0] root: client send get  456
+2020-04-02 15:14:01,098 DEBUG [Thread-0] root: client send get  1
+2020-04-02 15:14:18,867 DEBUG [Thread-0] root: client send get  777
+2020-04-02 15:17:47,576 INFO  [main] root: start server
+2020-04-02 15:18:02,480 DEBUG [main] root: server accept client
+2020-04-02 15:18:02,481 DEBUG [main] root: socket create
+2020-04-02 15:18:02,481 DEBUG [main] root: reader create
+2020-04-02 15:18:02,482 DEBUG [main] root: writer create
+2020-04-02 15:18:02,482 DEBUG [main] root: threade start
